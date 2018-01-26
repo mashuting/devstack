@@ -17,6 +17,7 @@ libjpeg-turbo-devel # Pillow 3.0.0
 libxml2-devel # lxml
 libxslt-devel # lxml
 libyaml-devel
+pcre-devel # for python-pcre
 mariadb-devel  # MySQL-python
 net-tools
 openssh-server
